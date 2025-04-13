@@ -1,0 +1,3 @@
+{
+    "God Class": "```java\npublic class GodClass {\n    \n    private String attribute1;\n    private int attribute2;\n    private boolean attribute3;\n    \n    public void method1() {\n        // código extenso e complexo que realiza diversas funcionalidades\n    }\n    \n    public void method2() {\n        // código extenso e complexo que realiza diversas funcionalidades\n    }\n    \n    public void method3() {\n        // código extenso e complexo que realiza diversas funcionalidades\n    }\n    \n    // outros métodos...\n    \n}\n```"
+}
